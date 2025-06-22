@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rajan Kumar
-**A passionate Wed Development || Software Engineer || MERN Stack **
+**A passionate Wed Development || MERN Stack || DSA with Java **
 
 Email Me 👉 ✉️ **rajankabir9@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -10,8 +10,8 @@ Email Me 👉 ✉️ **rajankabir9@gmail.com** For Collaboration/Project or Anyt
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning MERN Stack.
 - 🤔 Computer Science Student.
+- 🌱 I’m currently learning MERN Stack.
 - 💬 UI/UX Designer & Developer.
 - 👯 My recent work http://bit.ly/43KApkz
 <!--
