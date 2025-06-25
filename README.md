@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rajan Kumar
 **A passionate Wed Development || MERN Stack || DSA with Java **
 
-Email Me 👉 ✉️ **rajankabir9@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rajankabirdev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 <!--
