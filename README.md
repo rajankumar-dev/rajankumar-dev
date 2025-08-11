@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **rajankabirdev@gmail.com** For Collaboration/Project or An
 Here are some ideas to get you started:
 -->
 
-- 🤔 Computer Science Student.
+- 🤔 Computer Science Student
 - 🌱 I’m currently learning MERN Stack.
 - 💬 UI/UX Designer & Developer.
 - 👯 My recent work http://bit.ly/43KApkz
