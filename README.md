@@ -19,6 +19,7 @@
 * JavaScript
 * React.js
 * Tailwind CSS
+* Bootstrap 
 
 **Backend**
 
