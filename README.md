@@ -5,7 +5,7 @@
 ## About Me
 
 * Computer Science Student
-* Currently learning and building with the MERN Stack
+* Currently learning and building with the MERN Stack and Next.js
 * Strong interest in Backend Development and System Design
 * Passionate about UI/UX and modern web technologies
 * Always exploring new tools and technologies
