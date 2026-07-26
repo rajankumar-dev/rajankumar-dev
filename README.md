@@ -1,15 +1,15 @@
 <div align="center">
 
-<a href="https://x.com/yourusername">
-<img src="https://img.shields.io/badge/X-@yourusername-white?style=for-the-badge&logo=x&logoColor=black"/>
+<a href="https://x.com/rajanshirshwal">
+  <img src="https://img.shields.io/badge/@rajanshirshwal-FFFFFF?style=for-the-badge&logo=x&logoColor=000000&labelColor=FFFFFF" />
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Rajan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/rajanshirshwal">
+  <img src="https://img.shields.io/badge/@rajanshirshwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-yourmail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:rajankabir9@gmail.com">
+  <img src="https://img.shields.io/badge/rajankabir9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C0392B" />
 </a>
 
 </div>
@@ -30,12 +30,9 @@
 
 - 💬 Always happy to connect with amazing developers.
 
----
 
 ## 🛠 Tech Stack
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=javascript" />
@@ -51,12 +48,9 @@
 
 </p>
 
----
 
-## ⭐ Tools
-
+## Tools
 <p>
-
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=notion" />
 <img src="https://skillicons.dev/icons?i=figma" />
@@ -64,5 +58,4 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=vercel" />
 <img src="https://skillicons.dev/icons?i=docker" />
-
 </p>
