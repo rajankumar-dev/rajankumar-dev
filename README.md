@@ -41,9 +41,9 @@
 <img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=express" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
+<!-- <img src="https://skillicons.dev/icons?i=nextjs" /> -->
 <img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=postgres" />
+<!-- <img src="https://skillicons.dev/icons?i=postgres" /> -->
 <img src="https://skillicons.dev/icons?i=git" />
 
 </p>
@@ -52,7 +52,7 @@
 ## Tools
 <p>
 <img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=notion" />
+<!-- <img src="https://skillicons.dev/icons?i=notion" /> -->
 <img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://skillicons.dev/icons?i=postman" />
 <img src="https://skillicons.dev/icons?i=vscode" />
