@@ -1,17 +1,13 @@
 <div align="center">
-
 <a href="https://x.com/rajanshirshwal">
-  <img src="https://img.shields.io/badge/@rajanshirshwal-FFFFFF?style=for-the-badge&logo=x&logoColor=000000&labelColor=FFFFFF" />
+  <img src="assets/badges/x-badge.svg" />
 </a>
-
 <a href="https://linkedin.com/in/rajanshirshwal">
-  <img src="https://img.shields.io/badge/@rajanshirshwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <img src="assets/badges/linkedin-badge.svg" />
 </a>
-
 <a href="mailto:rajankabir9@gmail.com">
-  <img src="https://img.shields.io/badge/rajankabir9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C0392B" />
+  <img src="assets/badges/gmail-badge.svg" />
 </a>
-
 </div>
 
 <br>
