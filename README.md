@@ -4,7 +4,6 @@
 <a href="mailto:rajankabir9@gmail.com"><img src="assets/badges/gmail-badge.svg" /></a>
 </div>
 
-<br>
 
 # 👋 Hi there
 
