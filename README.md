@@ -1,13 +1,7 @@
 <div align="center">
-<a href="https://x.com/rajanshirshwal">
-  <img src="assets/badges/x-badge.svg" />
-</a>
-<a href="https://linkedin.com/in/rajanshirshwal">
-  <img src="assets/badges/linkedin-badge.svg" />
-</a>
-<a href="mailto:rajankabir9@gmail.com">
-  <img src="assets/badges/gmail-badge.svg" />
-</a>
+<a href="https://x.com/rajanshirshwal"><img src="assets/badges/x-badge.svg"/></a>
+<a href="https://linkedin.com/in/rajanshirshwal"><img src="assets/badges/linkedin-badge.svg" /></a>
+<a href="mailto:rajankabir9@gmail.com"><img src="assets/badges/gmail-badge.svg" /></a>
 </div>
 
 <br>
