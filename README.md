@@ -18,17 +18,17 @@
 
 # 👋 Hi there
 
-- 🎓 Computer Science Student
+- Computer Science Student
 
-- 💻 MERN Stack Developer
+- MERN Stack Developer
 
-- 🤖 Building AI Powered Web Applications
+- Building AI Powered Web Applications
 
-- 🚀 Currently building **StudyAI**
+- Currently building **StudyAI**
 
-- 🌱 Currently learning **Next.js**
+- Currently learning **Next.js**
 
-- 💬 Always happy to connect with amazing developers.
+- Always happy to connect with amazing developers.
 
 
 ## 🛠 Tech Stack
